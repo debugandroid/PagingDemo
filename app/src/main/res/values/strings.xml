@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PagingDemo</string>
+    <string name="add_todo">add Todo</string>
+    <string name="add">add</string>
+</resources>
